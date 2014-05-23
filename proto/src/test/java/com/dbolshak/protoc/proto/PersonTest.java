@@ -17,6 +17,6 @@ public class PersonTest {
         assertEquals(100, person.getId());
         assertEquals("Denis", person.getName());
         assertEquals("bolshakov.denis@gmail.com", person.getEmail());
+        assertEquals(1, person.getVersion());
     }
-
 }
