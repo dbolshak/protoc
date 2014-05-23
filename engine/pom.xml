@@ -13,4 +13,21 @@
     <artifactId>engine</artifactId>
     <packaging>jar</packaging>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.dbolshak.protoc</groupId>
+            <artifactId>proto</artifactId>
+            <version>0.0.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.2.4</version>
+        </dependency>
+        <!--dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>proto</artifactId>
+            <version>0.5</version>
+        </dependency-->
+    </dependencies>
 </project>
