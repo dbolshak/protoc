@@ -6,10 +6,9 @@
 
     <parent>
         <groupId>com.dbolshak.protoc</groupId>
-        <artifactId>prototype</artifactId>
+        <artifactId>protoc</artifactId>
         <version>0.0.1</version>
     </parent>
-
     <artifactId>engine</artifactId>
     <packaging>jar</packaging>
 
