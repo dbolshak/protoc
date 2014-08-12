@@ -11,7 +11,7 @@ message Person {
 
     /// unique id
     required int32 id = 2;
-    /// name of peson
+    /// name of person
     required string name = 3;
     /// email of person
     optional string email = 4;
